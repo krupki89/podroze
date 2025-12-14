@@ -1,6 +1,6 @@
 # Moje podróże
 
-Witamy na mojej stronie dokumentującej podróże. Tutaj znajdziesz relacje z różnych wypraw, zdjęcia i filmy.
+Witamy na naszej stronie dokumentującej podróże. Tutaj znajdziesz relacje, zdjęcia i filmy z ciekawszych wycieczek.
 
 ## Podróże
 

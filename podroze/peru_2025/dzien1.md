@@ -13,10 +13,12 @@ h1, h2, h3 {
 }
 img {
     max-width: 100%;
+    max-height: 85vh;
     height: auto;
-    margin: 10px 0;
+    width: auto;
     border-radius: 5px;
 }
+
 nav a {
     display: inline-block;
     margin: 10px 10px 20px 0;

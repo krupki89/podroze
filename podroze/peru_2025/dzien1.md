@@ -45,8 +45,6 @@ Po transferze zameldowaliśmy się w spokojnej dzielnicy - Miraflores.
 
 Zmęczony, zamknąłem na moment oczy i poczułem: „Jesteśmy naprawdę daleko od domu.”  
 
-## Zdjęcia
-
 <figure>
   <img src="zdjecia/IMG_9010.jpg" alt="Bilet lotniczy">
   <figcaption>Bilet lotniczy Warszawa-Lima</figcaption>

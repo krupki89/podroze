@@ -42,8 +42,8 @@ Zmęczony, zamknąłem na moment oczy i poczułem: „Jesteśmy naprawdę daleko
 
 ## Zdjęcia
 
-![bilet](zdjecia/plac_lima.jpg)
-![mapa_lotu](zdjecia/lima_ulica.jpg)
+![bilet](zdjecia/IMG_9010.jpg)
+![mapa_lotu](zdjecia/IMG_3686.jpg)
 
 ## Nawigacja
 

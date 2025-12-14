@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    max-width: 800px;
+    max-width: 1200px;
     margin: 20px auto;
     padding: 0 20px;
     background-color: #f9f9f9;  /* jasnoszare tło */

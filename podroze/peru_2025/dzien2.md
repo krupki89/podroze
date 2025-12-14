@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dzień 2 – Paracas i Nazca
+---
+
+
 <style>
 body {
     font-family: Arial, sans-serif;

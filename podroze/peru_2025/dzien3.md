@@ -1,0 +1,107 @@
+---
+layout: default
+title: Dzień 3 – Przez pustynię do Arequipy
+---
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+h1, h2, h3 {
+    color: #2c3e50;
+}
+figure {
+    margin: 25px 0;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    max-height: 85vh;
+    height: auto;
+    width: auto;
+    border-radius: 5px;
+}
+figcaption {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 6px;
+}
+nav a {
+    display: inline-block;
+    margin: 10px 10px 20px 0;
+    padding: 6px 12px;
+    background-color: #2c3e50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+nav a:hover {
+    background-color: #1a2a3b;
+}
+</style>
+
+# Dzień 3 – 24.10.2025 – Przez pustynię do Arequipy: Chauchilla, Falla Nazca, Yauca
+
+Poranek w Nazca przywitał nas suchym, gorącym powietrzem.  
+Wyjechaliśmy — nasza trasa prowadziła przez pustynię, przez tereny, które kiedyś były zamieszkiwane przez starożytne kultury.
+
+Zatrzymaliśmy się przy dawnym **Cmentarzu Chauchilla** — miejscu pełnym historii.  
+Piasek osypuje groby, wiatr zaciera ślady czasów — jakby pustynia sama chciała zatrzeć ludzkie ślady.  
+Wokół panowała cisza, przerwana jedynie skrzypieniem sandałów i szelestem wiatru.  
+
+<figure>
+  <img src="zdjecia/IMG_XXXX.jpg" alt="Cmentarz Chauchilla">
+  <figcaption>Cmentarz Chauchilla – pustynna cisza i starożytne groby</figcaption>
+</figure>
+
+W grobowcach pochowane są zmumifikowane szczątki kobiet, mężczyzn i dzieci.  
+Dzięki pustynnemu klimatowi szczątki zachowały się w niezwykle dobrym stanie.  
+Niektóre zwłoki były smarowane żywicą, a wszyscy zmarli siedzieli w pozycji „po turecku”, często obwiązani sznurami.  
+
+<figure>
+  <img src="zdjecia/IMG_XXXX.jpg" alt="Szczątki w Chauchilla">
+  <figcaption>Przykłady mumii i starożytnej odzieży</figcaption>
+</figure>
+
+Potem przejechaliśmy ekstremalnie suchą pustynią i zatrzymaliśmy się przy suchej dolinie – naturalnym korycie okresowej rzeki.  
+Prostopadłe, warstwowe ściany wskazują na erozję wyciętą przez gwałtowne spływy wody.  
+
+<figure>
+  <img src="zdjecia/IMG_XXXX.jpg" alt="Sucha dolina">
+  <figcaption>Sucha dolina – formy erozji w pustyni</figcaption>
+</figure>
+
+W **Yauca** zatrzymaliśmy się na degustację oliwy, oliwek i lokalnych trunków.  
+Szczególnym zainteresowaniem cieszył się 16% Pisco Cream Maracuya.  
+Smak oliwek z andyjskich dolin był intensywny i ziemisty, a w powietrzu unosił się aromat suszonych ziół.  
+
+<figure>
+  <img src="zdjecia/IMG_XXXX.jpg" alt="Degustacja w Yauca">
+  <figcaption>Degustacja lokalnych trunków w Yauca</figcaption>
+</figure>
+
+Podróż trwała, tereny się zmieniały.  
+Zatrzymaliśmy się na chwilę w **Tanace**, aby schłodzić nogi w Pacyfiku,  
+oraz w ujściu rzeki **Ocona**, gdzie pola uprawne były niespodzianką po wielu godzinach pustyni.  
+
+<figure>
+  <img src="zdjecia/IMG_XXXX.jpg" alt="Tanaca i Pacyfik">
+  <figcaption>Tanaca – krótki odpoczynek nad Pacyfikiem</figcaption>
+</figure>
+
+Pustynia ustępowała górskim podnóżom.  
+Do **Arequipy** dotarliśmy nocą, kończąc trzeci dzień naszej wyprawy.  
+
+## Nawigacja
+
+<nav>
+  <a href="dzien2.md">⬅ Dzień 2</a>
+  <a href="index.md">Strona główna podróży</a>
+  <a href="dzien4.md">Dzień 4 ➡</a>
+</nav>

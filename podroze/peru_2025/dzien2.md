@@ -88,7 +88,7 @@ Po powrocie z rejsu spędziliśmy chwilę w kawiarni, a następnie ruszyliśmy w
 Po drodze zatrzymaliśmy się przy oazie **Huacachina** — zielonym oku na pustyni, otoczonym złotymi wydmami.
 
 <figure>
-  <img src="zdjecia/IMG_3776>
+  <img src="zdjecia/IMG_3776.jpg">
   <figcaption>Oaza Huacachina – zielona wyspa pośród wydm</figcaption>
 </figure>
 
@@ -106,8 +106,8 @@ W ogrodzie muzeum znajduje się grób Maríi Reiche, która zmarła w 1998 roku.
 Nieopodal wznosi się 13-metrowa wieża widokowa, z której można obserwować fragmenty tajemniczych rysunków.
 
 <figure>
-  <img src="zdjecia/IMG_3811>
-  <figcaption>Płaskowyź Nazca</figcaption>
+  <img src="zdjecia/IMG_3811.jpg">
+  <figcaption>Płaskowyż Nazca</figcaption>
 </figure>
 
 Na płaskowyżu Nazca znajdują się setki geoglifów – od prostych linii i figur geometrycznych po ogromne wizerunki zwierząt i roślin.

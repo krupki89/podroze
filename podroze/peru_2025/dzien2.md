@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="../../style.css">
-
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -50,27 +48,28 @@ Po przyjeździe do Paracas nie sposób było nie zauważyć pomnika „ojca Peru
 Krótki spacer do portu był naszym pierwszym wiosennym spotkaniem z przyrodą.
 
 <figure>
-  <img src="zdjecia/IMG_paracas_port.jpg" alt="Port w Paracas">
-  <figcaption>Port w Paracas przed rejsem</figcaption>
+  <img src="zdjecia/IMG_3760.jpg" alt="Port w Paracas">
+  <img src="zdjecia/IMG_3762.jpg">
+  <figcaption>Port w Paracas</figcaption>
 </figure>
 
 Wkrótce wsiedliśmy do łodzi motorowej i popłynęliśmy na Ballestas Islands — archipelag skalnych wysepek na Pacyfiku.
 
+<figure>
+  <img src="zdjecia/IMG_8837.jpg">
+  <figcaption>Rejs łodzią motorową</figcaption>
+</figure>
+
 To miejsce bywa nazywane „Małymi Galapagos” — i trudno się temu dziwić.
 Podczas dwugodzinnego rejsu zobaczyliśmy kolonie lwów morskich wygrzewających się na skałach, pingwiny Humboldta wypatrujące nas ze wzgórz oraz ogromną liczbę ptaków morskich: kormorany, pelikany i wiele innych.
 Wszystko to sprawiało wrażenie, jakby natura zorganizowała tam własną świątynię życia.
-
-<figure>
-  <img src="zdjecia/IMG_ballestas_lwy.jpg" alt="Lwy morskie na Ballestas">
-  <figcaption>Lwy morskie na Wyspach Ballestas</figcaption>
-</figure>
 
 Najbardziej tajemnicza była ogromna figura wyryta na wydmie, znana jako **El Candelabro** — geoglif o długości około 180 metrów, widoczny z morza.
 Jego pochodzenie i znaczenie pozostają niejasne: nie wiadomo, kto go wykonał, kiedy i po co.
 Naukowcy spekulują, że mógł służyć jako znak dla dawnych marynarzy lub mieć znaczenie religijne.
 
 <figure>
-  <img src="zdjecia/IMG_candelabro.jpg" alt="El Candelabro">
+  <img src="zdjecia/IMG_8841.jpg" alt="El Candelabro">
   <figcaption>El Candelabro – tajemniczy geoglif widoczny z morza</figcaption>
 </figure>
 
@@ -78,11 +77,18 @@ Guano – czyli odchody ptaków morskich – przez wieki było niezwykle cennym 
 Obecnie, po wyczerpaniu złóż, wyspy stanowią rezerwat przyrody.
 Guano nadal jest gromadzone, lecz jego wydobycie zostało ograniczone, a na wyspy można dopływać jedynie łodziami, by obserwować ptaki i pozostałości po dawnej eksploatacji.
 
+<figure>
+  <img src="zdjecia/IMG_8843.jpg"> 
+  <img src="zdjecia/IMG_3752.jpg">
+  <img src="zdjecia/IMG_8886.jpg">
+  <figcaption>Las Ballestas</figcaption>
+</figure>
+
 Po powrocie z rejsu spędziliśmy chwilę w kawiarni, a następnie ruszyliśmy w kierunku Nazca.
 Po drodze zatrzymaliśmy się przy oazie **Huacachina** — zielonym oku na pustyni, otoczonym złotymi wydmami.
 
 <figure>
-  <img src="zdjecia/IMG_huacachina.jpg" alt="Oaza Huacachina">
+  <img src="zdjecia/IMG_3776>
   <figcaption>Oaza Huacachina – zielona wyspa pośród wydm</figcaption>
 </figure>
 
@@ -98,6 +104,11 @@ W muzeum zgromadzono mapy, fotografie i materiały archeologiczne dokumentujące
 
 W ogrodzie muzeum znajduje się grób Maríi Reiche, która zmarła w 1998 roku.
 Nieopodal wznosi się 13-metrowa wieża widokowa, z której można obserwować fragmenty tajemniczych rysunków.
+
+<figure>
+  <img src="zdjecia/IMG_3811>
+  <figcaption>Płaskowyź Nazca</figcaption>
+</figure>
 
 Na płaskowyżu Nazca znajdują się setki geoglifów – od prostych linii i figur geometrycznych po ogromne wizerunki zwierząt i roślin.
 Do najsłynniejszych należą m.in. pająk, kondor, koliber, małpy, pies, ryby i kwiaty.

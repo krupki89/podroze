@@ -20,7 +20,7 @@ img {
 </style>
 
 # Peru 2025 
-– W poszukiwaniu zaginionych cywilizacji
+"W poszukiwaniu zaginionych cywilizacji"
 
 Relacja z wycieczki do Peru (22.10–6.11.2025)
 

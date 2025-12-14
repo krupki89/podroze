@@ -37,7 +37,7 @@ O  3:00 rano zbieramy się na Lotnisku Chopina, zaspani, z plecakami i walizkami
 
 Lot do Amsterdamu był stosunkowo krótki, ale to wystarczyło — wszyscy czuliśmy, że wyprawa zaczyna się na dobre.
 
-Później przesiadka i długi lot do Limy — patrzyliśmy przez okna na zmieniające się chmury i oceany, a w sercach rosła niecierpliwość.
+Później przesiadka i długi lot do Limy — patrzyliśmy przez okna na zmieniające się chmury i oceany,   a w sercach rosła niecierpliwość.
 
 Przylecieliśmy wczesnym popołudniem (z uwzględnieniem różnicy czasu): powietrze Limy było wiosenne, suche, z lekkim powiewem chłodnego wiatru znad Pacyfiku.
 

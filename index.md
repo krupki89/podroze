@@ -1,9 +1,7 @@
-# Moja podróż do Peru
+# Moje podróże
 
-## Dzień 1
-Zwiedzanie Limy, spacer po centrum miasta.
+Witamy na mojej stronie dokumentującej podróże. Tutaj znajdziesz relacje z różnych wypraw, zdjęcia i filmy.
 
-## Dzień 2
-Przelot do Cusco i aklimatyzacja.
+## Podróże
 
-![Zdjęcie Machu Picchu](zdjecia/machu_picchu.jpg)
+- [Peru 2025](podroze/peru_2025/index.md)

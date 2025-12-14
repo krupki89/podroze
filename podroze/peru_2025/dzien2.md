@@ -23,7 +23,9 @@ figure {
 }
 img {
     max-width: 100%;
+    max-height: 85vh;
     height: auto;
+    width: auto;
     border-radius: 5px;
 }
 figcaption {

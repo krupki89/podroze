@@ -42,8 +42,15 @@ Zmęczony, zamknąłem na moment oczy i poczułem: „Jesteśmy naprawdę daleko
 
 ## Zdjęcia
 
-![bilet](zdjecia/IMG_9010.jpg)
-![mapa_lotu](zdjecia/IMG_3686.jpg)
+<figure>
+  <img src="zdjecia/IMG_9010.jpg" alt="Bilet lotniczy">
+  <figcaption>Bilet lotniczy Warszawa-Lima</figcaption>
+</figure>
+
+<figure>
+  <img src="zdjecia/IMG_3686.jpg" alt="Mapa lotu">
+  <figcaption>Mapa lotu do Limy</figcaption>
+</figure>
 
 ## Nawigacja
 

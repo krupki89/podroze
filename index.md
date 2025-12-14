@@ -1,4 +1,4 @@
-# Moje podróże
+# Nasze podróże
 
 Witamy na naszej stronie dokumentującej podróże. Tutaj znajdziesz relacje, zdjęcia i filmy z ciekawszych wycieczek.
 
